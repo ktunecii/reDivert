@@ -1,0 +1,125 @@
+reDivert Freeware Binary License
+Copyright (c) 2026 SetShot
+All rights reserved.
+
+1. Acceptance
+By downloading, installing, copying, or using reDivert (the "Software"), you agree to this License.
+If you do not agree to these terms, do not download, install, copy, or use the Software.
+
+2. License Grant
+Subject to this License, the copyright holder grants you a limited, non-exclusive,
+non-transferable, revocable license to download, install, and use the Software in binary form
+for personal, educational, evaluation, and internal business use.
+
+This Software is provided as freeware.
+You may use it without paying a license fee.
+
+3. No Transfer of Ownership
+The Software is licensed, not sold.
+All rights, title, and interest in and to the Software, including all intellectual property rights,
+remain the exclusive property of the copyright holder and its licensors.
+
+4. Distribution Rules
+You may not:
+- sell, sublicense, rent, lease, or commercially exploit the Software;
+- redistribute modified versions of the Software;
+- repackage the Software under another name;
+- mirror the Software on third-party download sites without prior written permission;
+- remove, alter, or hide any copyright, attribution, notice, or license file included with the Software.
+
+You may share the official project link or official release page link.
+Redistribution of the complete, unmodified official release package is allowed only if:
+- all original license and notice files remain included;
+- no fee is charged specifically for the Software itself;
+- no claim of authorship or ownership is made by the redistributor;
+- the redistribution does not misrepresent the origin, status, or functionality of the Software.
+
+5. Restrictions
+Except where applicable law or third-party license terms expressly require otherwise, you may not:
+- modify, adapt, translate, patch, or create derivative works based on the Software;
+- reverse engineer, decompile, disassemble, or otherwise attempt to derive source code;
+- bypass technical limitations or protective mechanisms of the Software;
+- use the Software for unlawful purposes;
+- use the Software in a way that infringes rights of others;
+- use the Software as part of a malware, interception, stealth, evasion, or abuse workflow.
+
+6. No Source Code Release Obligation
+This License does not grant you any right to receive the source code of reDivert.
+No public source code release is promised or implied by distribution of the Software in binary form.
+
+7. Updates and Support
+The copyright holder may, at its sole discretion, provide updates, fixes, improvements,
+or new versions of the Software, or may stop providing them at any time.
+No support, maintenance, compatibility guarantee, or update commitment is provided unless
+the copyright holder explicitly states otherwise.
+
+8. Third-Party Components
+The Software may include, redistribute, depend on, or interoperate with third-party software
+components, libraries, drivers, tools, or materials that are owned by their respective authors.
+
+Such third-party components are licensed under their own applicable terms.
+Those terms remain in force independently from this License.
+
+Without limitation, reDivert uses WinDivert as a third-party networking component.
+WinDivert is not owned by the reDivert author and remains subject to its own license terms,
+copyright notices, and attribution requirements.
+
+See the following files included with the release for details:
+- THIRD_PARTY_NOTICES.txt
+- third_party_licenses/LGPL-3.0.txt
+- third_party_licenses/GPL-2.0.txt
+
+9. WinDivert / LGPL Carve-Out
+Nothing in this License is intended to limit, override, or remove any rights granted to you
+under the applicable license terms of any included or redistributed third-party component.
+
+To the extent required by the license terms applicable to WinDivert or another third-party component:
+- this License does not prohibit modification of the relevant third-party library portion;
+- this License does not prohibit reverse engineering solely for debugging modifications to that
+  third-party library portion;
+- the applicable third-party license terms control with respect to that third-party component.
+
+This carve-out applies only to the relevant third-party component and only to the extent required
+by its applicable license terms.
+It does not grant any broader right to reverse engineer, modify, or redistribute reDivert itself.
+
+10. User Responsibility
+You are solely responsible for how you use the Software.
+You are responsible for verifying that use of the Software is lawful and appropriate in your
+jurisdiction, environment, device, network, and use case.
+
+11. No Warranty
+THE SOFTWARE IS PROVIDED "AS IS" AND "AS AVAILABLE", WITHOUT WARRANTY OF ANY KIND,
+EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE, TITLE, NON-INFRINGEMENT, SECURITY, AVAILABILITY,
+OR THAT THE SOFTWARE WILL OPERATE WITHOUT INTERRUPTION OR ERROR.
+
+THE COPYRIGHT HOLDER DOES NOT WARRANT THAT THE SOFTWARE WILL MEET YOUR REQUIREMENTS,
+WORK WITH EVERY VPN OR NETWORK CONFIGURATION, OR REMAIN COMPATIBLE WITH FUTURE SYSTEM,
+DRIVER, OR OPERATING SYSTEM UPDATES.
+
+12. Limitation of Liability
+TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, THE COPYRIGHT HOLDER AND ITS LICENSORS
+SHALL NOT BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY,
+CONSEQUENTIAL, OR PUNITIVE DAMAGES, OR FOR ANY LOSS OF DATA, LOSS OF BUSINESS,
+LOSS OF PROFITS, LOSS OF GOODWILL, NETWORK DISRUPTION, SYSTEM FAILURE, OR OTHER LOSS,
+ARISING OUT OF OR RELATED TO THE USE OF OR INABILITY TO USE THE SOFTWARE,
+EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGES.
+
+13. Termination
+This License terminates automatically if you breach any term of this License.
+Upon termination, you must stop using the Software and delete all copies in your possession
+or control, except to the extent continued possession is required or permitted under the
+applicable license terms of any third-party component.
+
+14. Severability
+If any provision of this License is held invalid, illegal, or unenforceable,
+the remaining provisions shall remain in full force and effect to the maximum extent permitted by law.
+
+15. Entire Agreement
+This License is the complete agreement between you and the copyright holder regarding the Software
+in binary release form and supersedes prior or contemporaneous statements on the same subject,
+except for separate third-party license terms that apply to included components.
+
+16. Reservation of Rights
+All rights not expressly granted under this License are reserved by the copyright holder.

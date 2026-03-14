@@ -1,0 +1,32 @@
+reDivert - Third-Party Notices
+==============================
+
+This product includes or redistributes third-party software components.
+
+1) WinDivert
+------------
+Project: WinDivert
+Author: basil
+Official repository: https://github.com/basil00/WinDivert
+Official documentation: https://reqrypt.org/windivert-doc.html
+
+WinDivert is used by reDivert as a networking/routing component.
+WinDivert is not developed by the reDivert authors.
+All rights to WinDivert remain with its original author and licensors.
+
+According to the official WinDivert documentation, WinDivert is dual-licensed
+under either:
+- GNU Lesser General Public License version 3 (LGPLv3 or later), or
+- GNU General Public License version 2 (GPLv2 or later).
+
+For reDivert distribution, the WinDivert component is acknowledged under the
+LGPL path. Copies of the relevant license texts are included in the
+third_party_licenses folder.
+
+Practical note:
+This release should be accompanied by the exact upstream WinDivert source code
+archive for the same version that is redistributed with reDivert.
+
+Acknowledgement:
+Special thanks to basil and the WinDivert project for the packet diversion
+technology used by reDivert.
