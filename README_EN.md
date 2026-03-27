@@ -39,6 +39,36 @@ Confirmed scenarios:
 - packet contents are not logged;
 - reDivert is a local routing utility and is not intended for traffic content analysis, hidden interception, or similar use cases.
 
+## If Windows 11 blocks reDivert
+
+On some Windows 11 systems, **reDivert** may be blocked from starting and Windows may show a security warning.
+
+This is usually related to **Smart App Control** in **Windows Security**. It can block apps that Windows does not yet treat as sufficiently trusted.
+
+This does **not** automatically mean that reDivert is malicious.  
+It means Windows is applying an extra trust check before launch.
+
+If you downloaded **reDivert** from the official project page and you trust this file, you can turn off Smart App Control and then try launching the program again.
+
+> [!WARNING]
+> Only do this if you trust the source of the file.
+> After Smart App Control is turned off manually, Windows may not let you simply turn it back on later without resetting or reinstalling the system. 
+
+### How to turn off Smart App Control
+
+1. Open the **Start** menu.
+2. Type **Windows Security** and open it.
+3. In the left panel, open **App & browser control**.
+4. Find **Smart App Control**.
+5. Open its settings.
+6. Switch it to **Off**.
+7. Confirm the action if Windows asks.
+8. Then try launching **reDivert** again.
+
+### If you do not see this option
+
+On some systems, the **Smart App Control** section may be missing. This usually means the feature is already unavailable or already turned off on that Windows installation. 
+
 ## Third-party component
 
 reDivert uses **WinDivert** as a third-party networking component.
